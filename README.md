@@ -4,6 +4,7 @@ Standard Template Library Programs
   <h3>
     <ol> 
       <li> array </li>
-      <li> vector <li>
-    <ol>
+      <li> vector </li>
+      <li> deque </li>
+   <ol>
   </h3
